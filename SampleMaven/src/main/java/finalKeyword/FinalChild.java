@@ -1,6 +1,6 @@
 package finalKeyword;
 
-public class FinalChild extends FinalVar
+public class FinalChild 
 {
 	public void detail() 
 	{
